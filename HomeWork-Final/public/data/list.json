@@ -1,0 +1,104 @@
+[
+{
+	"img": "01.jpg",
+	"title": "麦当劳(交大闵行店)",
+	"discription":"蘸上甜辣酱很好吃哦",
+	"sales": 44,
+	"price": 87,
+	"originPrice": 128,
+	"id": "1",
+	"is_food":true
+},
+{
+"img": "02.jpg",
+"title": "小杨生煎",
+"discription":"好吃，服务很好",
+"sales": 13126,
+"price": 45.5,
+"originPrice": 60,
+"id": "2",
+"is_food":true
+},
+{
+"img": "03.jpg",
+"discription":"基森·斯坦森，霍特·麦克卡兰",
+"title": "人之怒",
+"sales": 101,
+"price": 13,
+"originPrice": 30,
+"id": "2",
+"is_food":false,
+"score":8.6,
+"people":57070
+},
+{
+"img": "04.jpg",
+"title": "梦璇麻辣香锅",
+"discription":"",
+"sales": 241,
+"price": 89,
+"originPrice": 105,
+"id": "3",
+"is_food":true
+},
+{
+"img": "03.jpg",
+"title": "单人牛排自助假日2选1，提供免费WiFi",
+"discription":"蘸上甜辣酱很好吃哦",
+"sales": 9890,
+"price": 49.9,
+"originPrice": 70,
+"id": "5",
+"is_food":true
+},
+{
+"img": "04.jpg",
+"title": "蛋糕1选1,约12英寸，圆形",
+"discription":"蘸上甜辣酱很好吃哦",
+"sales": 8,
+"price": 88,
+"originPrice": 260,
+"id": "6",
+"is_food":true
+},
+{
+"img": "05.jpg",
+"title": "芒小仙·水果奶茶",
+"discription":"口味好，环境好",
+"sales": 3,
+"price": 275,
+"originPrice": 300,
+"id": "7",
+"is_food":true
+},
+{
+"img": "08.jpg",
+"title": "6人烤肉，提供免费WiFi",
+"discription":"蘸上甜辣酱很好吃哦",
+"sales": 12226,
+"price": 178,
+"originPrice": 305,
+"id": "8",
+"is_food":true
+},
+{
+"img": "09.jpg",
+"title": "商务套餐，建议2-3人使用",
+"discription":"蘸上甜辣酱很好吃哦",
+"sales": 11,
+"price": 198,
+"originPrice": 338,
+"id": "9",
+"is_food":true
+},
+{
+"img": "10.jpg",
+"title": "超值套餐，建议2人使用",
+"discription":"蘸上甜辣酱很好吃哦",
+"sales": 90,
+"price": 68,
+"originPrice": 148,
+"id": "10",
+"is_food":true
+}
+]
